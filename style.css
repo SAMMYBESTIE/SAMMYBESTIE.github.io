@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+  color: #000;
+  font-weight: normal;
+}
+body{
+  background: repeating-linear-gradient(#83ff00,#257909,#020024);
+}
+p{
+  color: #fff;
+  font-weight: normal;
+}
+h2{
+  Color: #ff0000;
+}
